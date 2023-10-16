@@ -1,0 +1,39 @@
+.First_button {
+  background-color: #4CAF50; /* Background color */
+  color: white;            /* Text color */
+  border: none;            /* No border */
+  padding: 60px 50px;       /* Padding around the text */
+  text-align: center;      /* Center the text horizontally */
+  text-decoration: none;   /* Remove underlines for links */
+  display: inline-block;   /* Display as an inline element */
+  font-size: 16px;         /* Font size */
+  margin: 4px 2px;         /* Margin around the button */
+  cursor: pointer;         /* Cursor style on hover */
+
+  /* Optional: Add hover effect */
+  transition: background-color 0.3s;
+}
+
+.First_button:hover {
+  background-color: hsl(120, 4%, 5%); /* New background color on hover */
+}
+
+.Second_button {
+    background-color: blue;
+    color:aliceblue;
+    border: 8px solid brown;        
+    padding: 40px 50px;       /* Padding around the text */
+    text-align: center;      /* Center the text horizontally */
+    text-decoration: none;   /* Remove underlines for links */
+    display: inline-block;   /* Display as an inline element */
+    font-size: 26px;         /* Font size */
+    margin: 8px 2px;         /* Margin around the button */
+    cursor: pointer;
+
+    transition: background-color 0.3s;
+}
+
+.Second_button:hover {
+    background-color: black;
+   
+}

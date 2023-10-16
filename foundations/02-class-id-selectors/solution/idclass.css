@@ -1,0 +1,25 @@
+.Number_one,
+.Number_three,
+.Number_five {
+        background-color:rgb(255, 192, 203);}
+          
+
+
+#Number_two,
+#Number_four {
+        font-weight: bold;}
+
+.Number_one,
+.Number_five {
+        font-family: monospace;
+        font-size: 18px; }
+
+#Number_two {
+        font-size: 30px;
+        color:rgb(49, 49, 176);}
+
+        .Number_three {
+        font-size: 14px;
+        font-family:Georgia, serif;}
+
+#Number_four {background-color: chartreuse;}       
